@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+table{
+    border-collapse: collapse;
+    background-color:bisque
+}
+th,td{
+    border: 1px solid black;
+    text-align: center;
+}
+div input{
+    
+
+   margin: 8px 4px 8px 8px;
+}
+.buttons{
+    text-align: center;
+    margin: 8px 0px 8px 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.but1{
+    padding: 2px;
+    margin-left: 5px;
+
+}
+.but2{
+    padding: 2px;
+}
+.months{
+    margin-left: 5px;
+    padding: 2px;
+}
